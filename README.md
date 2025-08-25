@@ -10,7 +10,7 @@ Seller Performance: Analyzing seller reliability, product availability, and over
 Delivery and Logistics: Assessing the platform's logistical efficiency, including delivery speed, shipping costs, and geographic coverage.
 
 The findings from this analysis are intended to provide actionable insights and recommendations for ENIAC's leadership, supporting strategic decisions regarding market entry and partnership with Magist.
-[ENIAC/MAGIST](http:/https://docs.google.com/presentation/d/10w9ZGlApQZcs6HbRCHNe9BoZrgilrfh9309m9y6B4Lc/edit?usp=sharing "ENIAC/MAGIST")
+[ENIAC/MAGIST](https://docs.google.com/presentation/d/10w9ZGlApQZcs6HbRCHNe9BoZrgilrfh9309m9y6B4Lc/edit?usp=sharing "ENIAC/MAGIST")
 ## Languages and Libraries Used
 SQL: Used for extracting relevant data from the business database to answer key business questions.
 
